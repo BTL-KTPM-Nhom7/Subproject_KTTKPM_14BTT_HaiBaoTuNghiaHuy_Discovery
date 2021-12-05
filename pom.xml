@@ -13,7 +13,9 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>Subproject_KTTKPM_14BTT_HaiBaoTuNghiaHuy_Discovery</name>
     <description>Subproject_KTTKPM_14BTT_HaiBaoTuNghiaHuy_Discovery</description>
-
+    <properties>
+        <spring-cloud.version>2021.0.0-RC1</spring-cloud.version>
+    </properties>
     <dependencies>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
