@@ -14,7 +14,6 @@
     <name>Subproject_KTTKPM_14BTT_HaiBaoTuNghiaHuy_Discovery</name>
     <description>Subproject_KTTKPM_14BTT_HaiBaoTuNghiaHuy_Discovery</description>
     <properties>
-        <java.version>11</java.version>
         <spring-cloud.version>2021.0.0-RC1</spring-cloud.version>
     </properties>
     <dependencies>
